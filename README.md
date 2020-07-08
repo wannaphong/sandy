@@ -6,6 +6,10 @@
 
 รหัสโครงการ: 22p34i0094
 
+## ภาพรวมระบบ
+
+![ภาพรวมระบบแสนดี](https://github.wannaphong.com/sandy/s1.png)
+
 ## Page
 
 - [Sandy Source Code](https://github.com/wannaphong/sandy_nsc2020) : Source Code ระบบสั่งงานด้วยเสียงและฟังก์ชันต่าง ๆ
